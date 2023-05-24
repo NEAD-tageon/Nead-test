@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "homepages": {
+    "Main Homepage": {
+      "value": "Homepage.canvas",
+      "kind": "File",
+      "openOnStartup": true,
+      "hasRibbonIcon": true,
+      "openMode": "Keep open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Reading view",
+      "revertView": true,
+      "refreshDataview": false,
+      "autoCreate": true,
+      "autoScroll": true,
+      "pin": false,
+      "commands": []
+    }
+  },
+  "separateMobile": false
+}

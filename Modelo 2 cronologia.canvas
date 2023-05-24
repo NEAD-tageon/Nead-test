@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"type":"text","text":"Surge a Singularidade. É expelida da mente de Prabrajna a criação. O Criador caído começa a gerar diversas espécies de anjo-clone, a partir de seu próprio Código-fonte Definidor de Vida Pessoal-CFDP \n[13,8 bilhões de anos A.P.](13,8%20bilhões%20de%20anos%20A.P..md)","id":"538b989ce404dafb","x":-387,"y":-300,"width":687,"height":120,"color":"4"},
+		{"type":"text","text":"1ª Era universal, a era da solidão do Criador decaído.\n[Entre 13,7 e 13,2 Bilhões de anos A.P.](Entre%2013,7%20e%2013,2%20Bilhões%20de%20anos%20A.P..md)","id":"2c392a81f3f9b605","x":-387,"y":-140,"width":250,"height":100,"color":"2"},
+		{"type":"text","text":"","id":"7ba653ce8d073813","x":-52,"y":1840,"width":50,"height":50,"color":"6"},
+		{"type":"text","text":"BIG BANG - 13,8 BILHÕES DE ANOS ATRAS\n         Início da Criação de Prabrajna\n         ","id":"ab56c64f8bfce838","x":-230,"y":-420,"width":374,"height":90,"color":"1"},
+		{"type":"text","text":"Surgimento dos Deuses Primordias. [Entre 13,7 a 9,8 Bilhões de anos A.P.](Entre%2013,7%20a%209,8%20Bilhões%20de%20anos%20A.P..md)","id":"8a3437aca61a1c46","x":50,"y":-65,"width":250,"height":100,"color":"3"},
+		{"type":"text","text":"13,7 - 9,8","id":"4eef5f264f01414e","x":-105,"y":-40,"width":130,"height":50,"color":"6"},
+		{"type":"text","text":"2ª Era universal, geração das espécies dos anjos-clones. [Entre 13,2 a 11,5 Bilhões de anos A.P.](Entre%2013,2%20a%2011,5%20Bilhões%20de%20anos%20A.P..md)","id":"f39375938828e56e","x":-387,"y":10,"width":250,"height":105,"color":"2"},
+		{"type":"text","text":"13,2 - 11,5","id":"bd5684a3af2f2f24","x":-105,"y":38,"width":130,"height":50,"color":"6"},
+		{"type":"text","text":"12 - 11","id":"a0c8ddd96cfbb4a5","x":-105,"y":115,"width":130,"height":50,"color":"6"},
+		{"type":"text","text":"Surgem os demos no universo antimaterial. [Entre 12 a 11 Bilhões de anos A.P.](Entre%2012%20a%2011%20Bilhões%20de%20anos%20A.P..md)","id":"70a093d23b33bb6b","x":50,"y":88,"width":250,"height":103,"color":"3"},
+		{"type":"text","text":"12","id":"6c3efd7d09511772","x":-105,"y":191,"width":130,"height":50,"color":"6"},
+		{"type":"text","text":"11,3\n","id":"57d15ace142e51d1","x":-105,"y":260,"width":130,"height":50,"color":"6"},
+		{"type":"text","text":"","id":"e01a5f3383727d88","x":-105,"y":335,"width":130,"height":50,"color":"6"},
+		{"type":"text","text":"","id":"e63f55f5c0e334e8","x":-105,"y":412,"width":130,"height":50,"color":"6"},
+		{"type":"text","text":"","id":"8e0ede49cbd8d3fb","x":-105,"y":489,"width":130,"height":50,"color":"6"},
+		{"type":"text","text":"","id":"c0847e15fd06e2a4","x":-105,"y":565,"width":130,"height":50,"color":"6"},
+		{"type":"text","text":"","id":"e90abc1c782eff1d","x":-105,"y":644,"width":130,"height":50,"color":"6"},
+		{"type":"text","text":"","id":"956760a63800b123","x":-105,"y":722,"width":130,"height":50,"color":"6"},
+		{"type":"text","text":"A Via Láctea se forma no cenário cósmico. [12 bilhões de anos A.P.](12%20bilhões%20de%20anos%20A.P..md)","id":"24918f8c654aad67","x":-387,"y":169,"width":250,"height":95,"color":"2"},
+		{"type":"text","text":"Um anjo-clone (Shiva) desperta e o gráu de podridão de Javé piora. [11,3 bilhões de anos A.P.](11,3%20bilhões%20de%20anos%20A.P..md)","id":"9294cbdd8deda098","x":50,"y":230,"width":250,"height":110,"color":"3"},
+		{"type":"text","text":"13,7 - 13,2","id":"20677e7673cf5dbb","x":-105,"y":-117,"width":130,"height":55,"color":"6"},
+		{"id":"6f6d285079cbe9c3","x":-380,"y":-520,"width":680,"height":80,"type":"text","text":"CRONOLOGIA I \n- ACONTECIMENTOS MAIS IMPOSTANTES ENTRE 13,8 E 1 BILHÃO DE ANOS A.P."}
+	],
+	"edges":[
+		{"id":"2f53cd572d26a58f","fromNode":"ab56c64f8bfce838","fromSide":"bottom","toNode":"538b989ce404dafb","toSide":"top","toEnd":"none"},
+		{"id":"e82567517c326a2c","fromNode":"7ba653ce8d073813","fromSide":"top","toNode":"538b989ce404dafb","toSide":"bottom","toEnd":"none"},
+		{"id":"3648a737829e9d20","fromNode":"4eef5f264f01414e","fromSide":"right","toNode":"8a3437aca61a1c46","toSide":"left"},
+		{"id":"4a1724bc8ba4af34","fromNode":"bd5684a3af2f2f24","fromSide":"left","toNode":"f39375938828e56e","toSide":"right"},
+		{"id":"f1deb33e8b8a14d3","fromNode":"20677e7673cf5dbb","fromSide":"left","toNode":"2c392a81f3f9b605","toSide":"right"},
+		{"id":"3b26ec367c587f9f","fromNode":"a0c8ddd96cfbb4a5","fromSide":"right","toNode":"70a093d23b33bb6b","toSide":"left"},
+		{"id":"e524fd5029de8011","fromNode":"6c3efd7d09511772","fromSide":"left","toNode":"24918f8c654aad67","toSide":"right"},
+		{"id":"d1ccd170fe80c806","fromNode":"57d15ace142e51d1","fromSide":"right","toNode":"9294cbdd8deda098","toSide":"left"}
+	]
+}

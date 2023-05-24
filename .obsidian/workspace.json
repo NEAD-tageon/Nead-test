@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "4121af5eb3437ebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae368347313397d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a220fcc606811927",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e629ae3903bad3e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0d6fcb92af56926",
+        "type": "tabs",
+        "dimension": 79.20997920997921,
+        "children": [
+          {
+            "id": "dd8d91711e49fb4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6025d83d8b567ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9b4c7f5104062584",
+        "type": "tabs",
+        "dimension": 20.79002079002079,
+        "children": [
+          {
+            "id": "cdb0d5ad73a1e885",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "right": {
+    "id": "0c06d4601353751f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3dc577edf75d0b7",
+        "type": "tabs",
+        "dimension": 35.03118503118503,
+        "children": [
+          {
+            "id": "01b48b1d51631ebf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "125c1cd7cdae3e9f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ca11f90c31565c65",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7a6dbbcd121c10c3",
+        "type": "tabs",
+        "dimension": 32.224532224532226,
+        "children": [
+          {
+            "id": "9b4070520af939a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9b3f7731a48b2f22",
+        "type": "tabs",
+        "dimension": 32.74428274428274,
+        "children": [
+          {
+            "id": "85b7f3c20685a1dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "cmdr:Excluir o arquivo atual": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a220fcc606811927",
+  "lastOpenFiles": [
+    "Nead-test",
+    "ÍNDIDE GERAL DOS VERBETES.canvas",
+    "ÍNDICE GERAL DOS PRESENTATIONS.canvas",
+    "ÍNDICE GERAL DAS FICHAS.canvas",
+    "ÍNDICE DOS MARCOS CRONOLÓGICOS.canvas",
+    "HOMEPAGE.canvas",
+    "CONTROLE DA PRODUÇÃO DOS FICHAMENTOS E VERBETES.md",
+    "Árvore do Conhecimento/Verbetes/Z/Zont En Drel 29.md",
+    "Árvore do Conhecimento/Verbetes/Z/Zeus.md",
+    "Árvore do Conhecimento/Verbetes/Y/Yel Luzbel.md",
+    "Árvore do Conhecimento/Verbetes/Y/Yggdrasil.md",
+    "Árvore do Conhecimento/Verbetes/Y/Yel Breasil.md",
+    "Árvore do Conhecimento/Verbetes/Y/Yel Am.md",
+    "Árvore do Conhecimento/Verbetes/Y/Yama.md",
+    "Árvore do Conhecimento/Verbetes/X/Xamanismo.md",
+    "Árvore do Conhecimento/Verbetes/W/Wird.md",
+    "Árvore do Conhecimento/Verbetes/V/Vírus.md",
+    "Árvore do Conhecimento/Verbetes/V/Vrishni.md",
+    "Árvore do Conhecimento/Verbetes/V/Vishnu.md",
+    "Árvore do Conhecimento/Verbetes/V/Val Pen.md",
+    "Árvore do Conhecimento/Verbetes/V/Val Eno.md",
+    "Árvore do Conhecimento/Verbetes/V/Val Gevi.md",
+    "Árvore do Conhecimento/Verbetes/V/Val Elliah.md",
+    "Árvore do Conhecimento/Verbetes/V/Val El ou Val Ellam.md",
+    "Árvore do Conhecimento/Verbetes/V/Val Dimon.md",
+    "Árvore do Conhecimento/Verbetes/V/Val Bon.md",
+    "Árvore do Conhecimento/Verbetes/V/Val Anon.md",
+    "Árvore do Conhecimento/Verbetes/V/Val Anen.md",
+    "Árvore do Conhecimento/Verbetes/U/Urântia - O livro de.md",
+    "Árvore do Conhecimento/Verbetes/U/Universos - Tipos de.md",
+    "Árvore do Conhecimento/Verbetes/U/Universo Material.md",
+    "Árvore do Conhecimento/Imagens/2023/2023-05-21-ppt-1.jpg",
+    "Árvore do Conhecimento/Imagens/2023/2023-05-20-ppt-1.jpg",
+    "Árvore do Conhecimento/Imagens/2022/2022-08-08-verbete-1.jpg",
+    "Árvore do Conhecimento/Imagens/2022/2022-07-31-ficha-9.jpg",
+    "Árvore do Conhecimento/Imagens/2022/2022-07-31-ficha-8.jpg",
+    "Árvore do Conhecimento/Imagens/2022/2022-07-31-ficha-7.jpg",
+    "Árvore do Conhecimento/Imagens/2022/2022-07-31-ficha-6.jpg",
+    "Árvore do Conhecimento/Imagens/2022/2022-07-31-ficha-5.jpg",
+    "Árvore do Conhecimento/Imagens/2022/2022-07-31-ficha-4.jpg",
+    "Árvore do Conhecimento/Imagens/2022/2022-07-31-ficha-3.jpg",
+    "Árvore do Conhecimento/Verbetes/Z",
+    "Árvore do Conhecimento/Verbetes/Y",
+    "Árvore do Conhecimento/Verbetes/X",
+    "Árvore do Conhecimento/Verbetes/W",
+    "Árvore do Conhecimento/Verbetes/V",
+    "Árvore do Conhecimento/Verbetes/U",
+    "Árvore do Conhecimento/Verbetes/T",
+    "Árvore do Conhecimento/Verbetes/S",
+    "Árvore do Conhecimento/Verbetes/R",
+    "Árvore do Conhecimento/Verbetes/Q",
+    "Modelo 2 cronologia.canvas",
+    "Nead-test/ÍNDIDE GERAL DOS VERBETES.canvas",
+    "Nead-test/ÍNDICE GERAL DOS PRESENTATIONS.canvas",
+    "Nead-test/ÍNDICE GERAL DAS FICHAS.canvas",
+    "Nead-test/ÍNDICE DOS MARCOS CRONOLÓGICOS.canvas"
+  ]
+}

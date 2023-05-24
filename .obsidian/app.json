@@ -1,0 +1,17 @@
+{
+  "promptDelete": true,
+  "showLineNumber": false,
+  "trashOption": "system",
+  "newFileLocation": "root",
+  "attachmentFolderPath": "C - Marcos Cronológicos",
+  "legacyEditor": false,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabetical",
+  "showIndentGuide": false,
+  "useMarkdownLinks": true,
+  "autoConvertHtml": false,
+  "showFrontmatter": false,
+  "showInlineTitle": true
+}

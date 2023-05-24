@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"text","text":"**2018**\n```dataview\nTABLE without ID file.link as Total\nFROM \"Árvore do Conhecimento/Presentations/2018\" SORT file.name ASC\n```\n\n","id":"ce6664b4219791bb","x":-480,"y":-180,"width":200,"height":640,"color":"4"},
+		{"type":"text","text":"**2019**\n```dataview\nTABLE without ID file.link as Total\nFROM \"Árvore do Conhecimento/Presentations/2019\" SORT file.name ASC\n```","id":"be2350b8b3cdb035","x":-260,"y":-180,"width":200,"height":640,"color":"4"},
+		{"type":"text","text":"**2020**\n```dataview\nTABLE without ID file.link as Total\nFROM \"Árvore do Conhecimento/Presentations/2020\" SORT file.name ASC\n```","id":"1bef4fadeb383aaf","x":-40,"y":-180,"width":200,"height":640,"color":"4"},
+		{"type":"text","text":"**2021**\n```dataview\nTABLE without ID file.link as Total\nFROM \"Árvore do Conhecimento/Presentations/2021\" SORT file.name ASC\n```","id":"e312b43a9ea34673","x":180,"y":-180,"width":200,"height":640,"color":"4"},
+		{"type":"text","text":"**2022**\n```dataview\nTABLE without ID file.link as Total\nFROM \"Árvore do Conhecimento/Presentations/2022\" SORT file.name ASC\n```","id":"a1945d8868cd28ee","x":400,"y":-180,"width":200,"height":640,"color":"4"},
+		{"type":"text","text":"**2023**\n```dataview\nTABLE without ID file.link as Total\nFROM \"Árvore do Conhecimento/Presentations/2023\" SORT file.name ASC\n```","id":"a34a9996d0e6b617","x":640,"y":-180,"width":200,"height":640,"color":"4"},
+		{"type":"text","text":"**Mapa de Presentations de Palestras**","id":"a068c1c96ed626f1","x":0,"y":-520,"width":300,"height":60,"color":"1"},
+		{"type":"text","text":"[Voltar para a Homepage](HOMEPAGE.canvas)                          ","id":"ec4878a44533390b","x":177,"y":486,"width":263,"height":60,"color":"5"},
+		{"type":"text","text":"[Modelo Presentation de Palestra](Modelo%20Presentation%20de%20Palestra.md)","id":"65a8817cba25517d","x":-90,"y":486,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"44eb6516753414ea","fromNode":"a068c1c96ed626f1","fromSide":"bottom","toNode":"ce6664b4219791bb","toSide":"top"},
+		{"id":"5488929975577fc1","fromNode":"a068c1c96ed626f1","fromSide":"bottom","toNode":"a34a9996d0e6b617","toSide":"top"},
+		{"id":"4b49e936945fe960","fromNode":"a068c1c96ed626f1","fromSide":"bottom","toNode":"a1945d8868cd28ee","toSide":"top"},
+		{"id":"ce1c668995681416","fromNode":"a068c1c96ed626f1","fromSide":"bottom","toNode":"e312b43a9ea34673","toSide":"top"},
+		{"id":"3919b36fc2d40d91","fromNode":"a068c1c96ed626f1","fromSide":"bottom","toNode":"1bef4fadeb383aaf","toSide":"top"},
+		{"id":"c9561da81dd786dd","fromNode":"a068c1c96ed626f1","fromSide":"bottom","toNode":"be2350b8b3cdb035","toSide":"top"}
+	]
+}

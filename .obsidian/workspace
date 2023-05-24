@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "4121af5eb3437ebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "131b80828fccc6b9",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e629ae3903bad3e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0d6fcb92af56926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8d91711e49fb4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdb0d5ad73a1e885",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296
+  },
+  "right": {
+    "id": "0c06d4601353751f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3dc577edf75d0b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01b48b1d51631ebf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "131b80828fccc6b9",
+  "lastOpenFiles": [
+    "Fichamentos/0 - Produção total para o NEAD/Produção total.md",
+    "Fichamentos/A - Fichamento de Palestras/12 - Conclave em Perpérion Prováveis Causas da Criação/Conclave em Perpérion- Prováveis Causas da Criação - 00.md",
+    "Fichamentos/1 - Os diversos nomes dos seres da RC/Dicionario dos nomes da RC.md",
+    "Fichamentos/B - Verbetes e Cronologias de Livros/15 - O Big Data do Criador/O Big Data do Criador - 09.md",
+    "Fichamentos/1 - Os diversos nomes dos seres da RC/Dicionario dos nomes da RC - Copia.md",
+    "Fichamentos/D - Recados de JVE aos membros do NEAD e IEEA/Recados de JVE aos membros do NEAD e IEEA.md",
+    "Fichamentos/A - Fichamento de Palestras/13 - Conclave em Perpérion Prováveis Causas da Criação/Conclave em Perpérion- Prováveis Causas da Criação - 00.md",
+    "Fichamentos/A - Fichamento de Palestras/11 - Sophia e as Demais Singularidades da Criação/Sophia e as Demais Singularidades da Criação - 05.md",
+    "Fichamentos/A - Fichamento de Palestras/10 - A Mais Trágica das Ignorâncias O Mal Uso do Diapasão Vibratório Pessoal/A mais tragica das ignorancias-O mal uso do diapasao vibratorio pessoal - 06.md",
+    "Fichamentos/B - Verbetes e Cronologias de Livros/14 - Tzimtzum - O exilio forçado de uma divindade/Tzimtzum - O exilio forçado de uma divindade- 04.md"
+  ]
+}

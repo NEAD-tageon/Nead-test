@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"**Grupo I \nContexto Demo** \n\n\n```dataview\nLIST \nFROM \"Árvore do Conhecimento/Fichas/Grupo I - Contexto Demo\" \nSORT file.day ASC\n```","id":"185854bdd39d327e","x":-470,"y":-549,"width":250,"height":249,"color":"4"},
+		{"type":"text","text":"**Grupo II\nTemática Extreterrestre**\n```dataview\nLIST \nFROM \"Árvore do Conhecimento/Fichas/Grupo II - Temática Extreterrestre\"\nSORT file.day ASC\n```","id":"4c1b8607722354a6","x":-210,"y":-549,"width":250,"height":249,"color":"4"},
+		{"type":"text","text":"**Grupo III\nAssuntos Mitológicos**\n```dataview\nLIST \nFROM \"Árvore do Conhecimento/Fichas/Grupo III - Assuntos Mitológicos\"\nSORT file.day ASC\n```","id":"188a127db529f3b2","x":51,"y":-546,"width":250,"height":246,"color":"4"},
+		{"type":"text","text":"**Grupo IV\nAssuntos Complementares**\n```dataview\nLIST \nFROM \"Árvore do Conhecimento/Fichas/Grupo IV - Assuntos Complementares\"\nSORT file.day ASC\n```","id":"8e8068becc02f4b8","x":-470,"y":-289,"width":250,"height":219,"color":"4"},
+		{"type":"text","text":"**Grupo VI\nArquivos Mentais**\n```dataview\nLIST \nFROM \"Árvore do Conhecimento/Fichas/Grupo VI - Arquivos Mentais\"\nSORT file.day ASC\n```","id":"667e78fa0259673a","x":51,"y":-289,"width":250,"height":219,"color":"4"},
+		{"type":"text","text":"**Grupo VII\nDecifração da Realidade**\n```dataview\nLIST \nFROM \"Árvore do Conhecimento/Fichas/Grupo VII - Decifração da Realidade\"\nSORT file.day ASC\n```","id":"0f98eae4c852290b","x":-345,"y":-60,"width":250,"height":220,"color":"4"},
+		{"type":"text","text":"**Grupo VIII\nFarol Lusitano**\n```dataview\nLIST \nFROM \"Árvore do Conhecimento/Fichas/Grupo VIII – Farol Lusitano\"\nSORT file.day ASC\n```\n","id":"c9ee01df09017ac8","x":-85,"y":-60,"width":250,"height":220,"color":"4"},
+		{"type":"text","text":"# Fichamentos de Resumos de Palestras\n\nO que é um fichamento? Fichamento é um método de estudo ou pesquisa pessoal que serve para o registro de informações sobre livros, textos ou artigos. Os fichamentos ajudam na compreensão do conteúdo e também servem para consultas posteriores.","id":"af157553061b1fba","x":-470,"y":-814,"width":771,"height":154,"color":"6"},
+		{"type":"text","text":"**Grupo V\nTemas Avançados**\n```dataview\nLIST \nFROM \"Árvore do Conhecimento/Fichas/Grupo V - Temas Avançados\"\nSORT file.day ASC\n```","id":"8315ec5a716dc646","x":-210,"y":-289,"width":250,"height":219,"color":"4"},
+		{"type":"text","text":"**ÍNDICE GERAL DOS FICHAMENTOS**","id":"b790f521ad25720f","x":-250,"y":-640,"width":332,"height":60,"color":"1"},
+		{"type":"text","text":"[Voltar para a Homepage](HOMEPAGE.canvas)","id":"c227143ad9261ca5","x":-85,"y":180,"width":250,"height":60,"color":"1"},
+		{"id":"b46cfbe5f3ddd6fc","x":-345,"y":180,"width":250,"height":60,"color":"1","type":"text","text":"[Modelo Fichamento de Palestra](Modelo%20Fichamento%20de%20Palestra.md)"}
+	],
+	"edges":[]
+}

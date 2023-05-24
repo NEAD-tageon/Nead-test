@@ -1,0 +1,78 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "homepage:open-homepage",
+      "icon": "anchor",
+      "name": "Homepage: Open homepage",
+      "mode": "desktop"
+    },
+    {
+      "id": "homepage:open-homepage",
+      "icon": "sidebar-open",
+      "name": "Homepage: Open homepage",
+      "mode": "desktop"
+    },
+    {
+      "id": "workspace:split-vertical",
+      "icon": "lucide-separator-vertical",
+      "name": "Dividir para a direita",
+      "mode": "desktop"
+    }
+  ],
+  "leftRibbon": [
+    {
+      "id": "app:delete-file",
+      "icon": "lucide-trash-2",
+      "name": "Excluir o arquivo atual",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "open-with-default-app:show",
+      "icon": "lucide-files",
+      "name": "Mostrar na pasta",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:open-in-new-window",
+      "icon": "lucide-maximize",
+      "name": "Abrir painel atual em uma nova janela",
+      "mode": "any"
+    },
+    {
+      "id": "app:open-vault",
+      "icon": "vault",
+      "name": "Abrir outro cofre",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Breadcrumbs Visualisation",
+      "Abrir importador Markdown",
+      "Templater"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
