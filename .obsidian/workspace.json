@@ -11,8 +11,15 @@
             "id": "a220fcc606811927",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "HOMEPAGE.canvas",
+                "viewState": {
+                  "x": -118.5,
+                  "y": 195,
+                  "zoom": -0.668479607590763
+                }
+              }
             }
           }
         ]
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HOMEPAGE.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HOMEPAGE.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HOMEPAGE.canvas"
+              }
             }
           }
         ]
